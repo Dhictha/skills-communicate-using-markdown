@@ -4,3 +4,6 @@
 #### The fourth one H4 header
 ##### The last but one: H5 header
 ###### The final and smallest one H6 Header
+
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
